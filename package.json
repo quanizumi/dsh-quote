@@ -19,6 +19,19 @@
     "LICENSE"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quanizumi/dsh-quote.git"
+  },
+  "homepage": "https://github.com/quanizumi/dsh-quote",
+  "bugs": {
+    "url": "https://github.com/quanizumi/dsh-quote/issues"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness"
+  ],
   "scripts": {
     "test": "node --test"
   },
